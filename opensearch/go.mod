@@ -1,6 +1,6 @@
 module github.com/alec504/go-crud/opensearch
 
-go 1.25.4
+go 1.25.7
 
 // replace github.com/alec504/go-crud/api => ../api
 
@@ -21,11 +21,11 @@ require (
 	github.com/google/gnostic v0.7.1 // indirect
 	github.com/google/gnostic-models v0.7.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	go.einride.tech/aip v0.80.0 // indirect
+	go.einride.tech/aip v0.86.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/sys v0.40.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20260122232226-8e98ce8d340d // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20260122232226-8e98ce8d340d // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20260720211330-0afa2a65878a // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260720211330-0afa2a65878a // indirect
 	google.golang.org/grpc v1.80.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
