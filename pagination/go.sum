@@ -1,3 +1,7 @@
+github.com/alec504/go-crud/api v0.0.4 h1:IMp2VlMzlB07bK3mY+cFr0WiPb9xc9WxDW/wRw5ZTzk=
+github.com/alec504/go-crud/api v0.0.4/go.mod h1:8Bto0a0/AeGrDeEYgzn1v8K0mrEGTyq59FNoODWGOWY=
+github.com/alec504/go-libs v0.0.4 h1:tEv60YFonm1rKvmzOkmSzR6dRo1IxjNSSFs0PYNLJbs=
+github.com/alec504/go-libs v0.0.4/go.mod h1:gPQYBFybpVUlQCzDxJptFmF46iLv0WUcvFpUu2LT6Qs=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
