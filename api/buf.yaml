@@ -2,6 +2,7 @@ version: v2
 
 modules:
   - path: protos
+    name: buf.build/alec504-apis/pagination
     lint:
       use:
         - STANDARD
